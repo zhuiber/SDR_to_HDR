@@ -1,2 +1,6 @@
 sdr_to_hdr.pth
 img/
+__pycache__/
+.autodl/
+.ipynb_checkpoints/
+.pytorch-UNet-master/
